@@ -18,37 +18,58 @@ All tasks were performed to mirror real-world support scenarios commonly encount
 
 ### User Account Management (Entra ID)
 - Created a new user account in Microsoft Entra ID
-- Verified account status and sign-in capability
+
+![Alt text](https://github.com/ZaccausChandler/Microsoft-365-Administration/blob/13d86bd102a9c356d52d6df2a76f376717547c7d/Create%20User%20365.png)
+
+-Confirm account creation and 365 access
+
+![Alt text](https://github.com/ZaccausChandler/Microsoft-365-Administration/blob/13d86bd102a9c356d52d6df2a76f376717547c7d/User%20Confirm.png)
+
 - Unblocked a previously blocked user account
 
+![Alt text](https://github.com/ZaccausChandler/Microsoft-365-Administration/blob/13d86bd102a9c356d52d6df2a76f376717547c7d/Account%20Blocked.png)
+![Alt text](https://github.com/ZaccausChandler/Microsoft-365-Administration/blob/13d86bd102a9c356d52d6df2a76f376717547c7d/Unblock%20account.png)
+![Alt text](https://github.com/ZaccausChandler/Microsoft-365-Administration/blob/13d86bd102a9c356d52d6df2a76f376717547c7d/amanda%20login.png)
+
+
 ### License Management
-- Assigned Microsoft 365 E5 licenses to users
+- Assigned Microsoft 365 Business Standard Licenses to users
+
+![Alt text](https://github.com/ZaccausChandler/Microsoft-365-Administration/blob/13d86bd102a9c356d52d6df2a76f376717547c7d/Assign%20license.png)
+![Alt text](https://github.com/ZaccausChandler/Microsoft-365-Administration/blob/13d86bd102a9c356d52d6df2a76f376717547c7d/Confirm%20License.png)
+
 - Verified service availability after license assignment
+
+![Alt text](https://github.com/ZaccausChandler/Microsoft-365-Administration/blob/919134e07a3275755ce511c0ed157173434a5a25/Screenshot%202026-01-15%20132216.png)
+ 
 
 ### Multi-Factor Authentication (MFA)
 - Enabled multi-factor authentication for a user account
-- Registered an authentication method
-- Verified MFA enforcement during user sign-in
+
+![Alt text](https://github.com/ZaccausChandler/Microsoft-365-Administration/blob/13d86bd102a9c356d52d6df2a76f376717547c7d/MFA.png)
 
 ### Shared Mailbox Administration
 - Created a shared mailbox for departmental use
+
+![Alt text](https://github.com/ZaccausChandler/Microsoft-365-Administration/blob/65185bcd8609fb12e1aa39e491c4ea6fd087b9e6/HR%20shared%20mailbox.png)
+  
 - Granted user access permissions to the shared mailbox
-- Verified mailbox availability in Outlook
+
+![Alt text](https://github.com/ZaccausChandler/Microsoft-365-Administration/blob/65185bcd8609fb12e1aa39e491c4ea6fd087b9e6/amanda%20shared%20mailbox.png)
+
 
 ### Security & Auditing
 - Reviewed Microsoft Entra ID sign-in logs
-- Identified successful and failed authentication attempts
-- Used logs to validate MFA enforcement and account access
 
----
+![Alt text](https://github.com/ZaccausChandler/Microsoft-365-Administration/blob/65185bcd8609fb12e1aa39e491c4ea6fd087b9e6/user%20sign%20ins.png)
+
 
 ## Tools & Technologies Used
 
 - Microsoft 365 Admin Center
 - Microsoft Entra ID (Azure AD)
 - Exchange Online Admin Center
-- Microsoft 365 E5 Developer Sandbox
-- Windows 10 / 11 (client testing)
+
 
 ---
 
